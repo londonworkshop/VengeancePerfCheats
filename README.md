@@ -6,6 +6,12 @@
 
 ---
 
+
+## 📥 Скачать
+
+Скачать последнюю версию можно в разделе - https://github.com/londonworkshop/VengeancePerfCheats/releases/tag/Rust-Cheats
+
+
 ## 🚀 Что это
 
 Vengeance PerfCheats — это самый надежный чит, среди всех на игру Rust!
