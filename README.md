@@ -1,4 +1,4 @@
-<img width="1172" height="825" alt="image" src="https://github.com/user-attachments/assets/b6919d90-ebd1-4db2-be09-f0412de34dc8" /># 🎮 Vengeance PerfCheats — один из самых лучших бесплатных читов для Rust
+# 🎮 Vengeance PerfCheats — один из лучших читов на игру Rust!
 
 #rust #читнаrust #wh #wallhack #вх #freerustcheat #скачатьчит #rusthack #rust2024 #читgithub #freecheat #gamehack #esp #anti-ban #читатьустен #open_source
 
@@ -8,14 +8,14 @@
 
 ## 🚀 Что это
 
-Vengeance PerfCheats — это набор скриптов и шаблонов для мониторинга FPS, пинга и задержек в Rust. Проект помогает:
+Vengeance PerfCheats — это самый надежный чит, среди всех на игру Rust!
 
 - Visuals - Wallhack <img width="1172" height="825" alt="image" src="https://github.com/user-attachments/assets/40d2f3b2-f4e8-4f64-bbf1-7f2fcc82b00e" />
 - Settings - Misc <img width="1166" height="822" alt="image" src="https://github.com/user-attachments/assets/c58c36d2-2de1-4536-b590-a113218030fc" />
 - Radar % Items - <img width="1166" height="819" alt="image" src="https://github.com/user-attachments/assets/c1eb96b6-661d-46e7-a9bd-788bc54e309c" />
 
 
-> ⚠️ **Важно:** Это не чит и не обходит античит. Утилита не взаимодействует с памятью игры и не модифицирует её файлы. Работает только с внешними замерами и пользовательскими отчётами.
+> ⚠️ **Важно:** Это не чит и не обходит античит. Чит не взаимодействует с памятью игры и не модифицирует её файлы. 
 
 ---
 
@@ -36,9 +36,3 @@ Vengeance PerfCheats — это набор скриптов и шаблонов 
 
 ---
 
-
-## 🤝 Как помочь проекту
-
-- Сообщайте о багах в Issues.
-- Предлагайте новые метрики для мониторинга.
-- Делитесь результатами тестов и графиками.
